@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoHunger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoHunger_jar</output-path>
+    <root id="archive" name="NoHunger.jar">
+      <element id="module-output" name="NoHunger" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

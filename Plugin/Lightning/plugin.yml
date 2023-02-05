@@ -1,0 +1,11 @@
+name: Lightning
+main: dev.ShingWong08.Lightning.Main
+version: 1.0.0
+api-version: 1.19
+commands:
+  lightning:
+    description: Lightning
+    usage: /<command>
+    aliases:
+      - lightningbolt
+      - smite

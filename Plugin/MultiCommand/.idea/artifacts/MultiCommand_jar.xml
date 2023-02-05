@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiCommand:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiCommand_jar</output-path>
+    <root id="archive" name="MultiCommand.jar">
+      <element id="module-output" name="MultiCommand" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
