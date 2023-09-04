@@ -1,0 +1,7 @@
+name: NoHunger
+main: dev.ShingWong08.Main
+version: 1.0.0
+commands:
+  nohunger:
+    description: a
+    usage: /<command>
